@@ -47,6 +47,15 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
 - **MetaMask Connection Issues**: Verify MetaMask is installed and unlocked.
 - **Data Storage Issues**: Ensure you're connected to the correct network and have sufficient test funds.
 
+# TEAM & Support
+
+Made with ❤️ by [KartikeySharma](https://github.com/relaxkartikey)
+
+## Collaborators
+- [Ridhi Jain](https://github.com/)
+- [Abhishek Vashishtha](https://github.com/)
+- [Tanishka Jain](https://github.com/)
+
 ## Support
 
 For assistance, please contact [relaxkartikey@gmail.com](mailto:relaxkartikey@gmail.com).
