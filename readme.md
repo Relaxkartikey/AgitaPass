@@ -49,7 +49,7 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
 
 # TEAM & Support
 
-Made with ❤️ by [KartikeySharma](https://github.com/relaxkartikey)
+Made with ❤️ by [@RelaxKartikey](https://github.com/relaxkartikey)
 
 ## Collaborators
 - [Ridhi Jain](https://github.com/)
