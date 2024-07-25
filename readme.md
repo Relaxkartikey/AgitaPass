@@ -32,7 +32,7 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
 
 3. **Save Data**:
    - Enter your Login ID and Password.
-   - Click **"Save"** to store the Data on the blockchain.
+   - Click **"Save Password"** to store the Data on the blockchain.
 
 4. **Retrieve Data**:
    - Click **"Load Passwords"** to retrieve the stored password.
@@ -51,7 +51,7 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
 
 Made with ❤️ by [@RelaxKartikey](https://github.com/relaxkartikey)
 
-## Collaborators
+## Contributors
 - [Abhishek Vashishtha](https://github.com/Abhishek3ad)
 - [Ridhi Jain](https://github.com/pRidhiJain)
 - [Tanishka Jain](https://github.com/tanishkajain081)
