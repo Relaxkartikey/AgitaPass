@@ -25,7 +25,7 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
 ## Usage
 
 1. **Open the Tool**:
-   - Visit the tool at `https://your-tool-url.vercel.app`.
+   - Visit the tool at `https://agita-pass.vercel.app/`.
 
 2. **Connect Wallet**:
    - Click **"Connect Wallet"** and approve the connection in MetaMask.
