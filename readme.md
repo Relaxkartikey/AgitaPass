@@ -31,11 +31,11 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
    - Click **"Connect Wallet"** and approve the connection in MetaMask.
 
 3. **Save Data**:
-   - Enter your Login ID (Text1) and Password (Text2).
-   - Click **"Save"** to store the data on the blockchain.
+   - Enter your Login ID and Password.
+   - Click **"Save"** to store the Data on the blockchain.
 
 4. **Retrieve Data**:
-   - Click **"Load Pass"** to retrieve the stored password.
+   - Click **"Load Passwords"** to retrieve the stored password.
 
 ## Notes
 
