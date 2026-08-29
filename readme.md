@@ -52,9 +52,8 @@ This tool allows users to store their Login ID & Passwords using blockchain tech
 Made with ❤️ by [@RelaxKartikey](https://github.com/relaxkartikey)
 
 ## Contributors
-- [Abhishek Vashishtha](https://github.com/Abhishek3ad)
-- [Ridhi Jain](https://github.com/pRidhiJain)
-- [Tanishka Jain](https://github.com/tanishkajain081)
+- [Abhishek Vashishtha](https://github.com/imdevabhishek)
+
 
 ## Support
 
